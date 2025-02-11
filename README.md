@@ -12,10 +12,18 @@ Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
 
 
 ## Postup pro výběr kávy
-1. Vyberte typ kávy na obrazovce.
-2. Nastavte sílu kávy a množství cukru
-3. Stiskněte tlačítko "Start" a počkejte na dokončení přípravy.
-4. Užijte si vaši kávu!
+1. Platba
+    1. Platba kartou
+          1. Zmáčkněte zelené tlačítko na platebním terminálu (fakt hodně)
+          2. Na zvukovou signalizaci přiložte kartu
+    2. Platba hotovostí
+          1. Do označeného otvoru vložte mince, automat vrací i na 50 Kč
+          2. Zkontrolujte kredit na displeji
+2. Nastavení množství cukru
+    1. Červenými tlačítky pod dispelejm zvolte množství cukru
+4. Zvolte si z nabídky kávy
+    1. Stiskuntím tlačítka s názvem kávy začne automat připravovat váš nápoj
+5. Užijte si vaši kávu!
 
 ## Postup pro zaplacení
 
