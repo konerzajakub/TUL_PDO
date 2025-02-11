@@ -84,6 +84,8 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 ## How
 
 ## Užívání si kávy
+![image](https://github.com/user-attachments/assets/48e16c39-66da-4742-ae6b-2babbe65eb64)
+
 
 ## Use Cases
 ###
