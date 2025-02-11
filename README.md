@@ -1,7 +1,7 @@
 # Automat na Kávu
 
 ## Úvod
-Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
+Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy uživatelů.
 
 ## Kdo bude uživatel?
 ### Student
@@ -33,14 +33,14 @@ Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
           2. Zkontrolujte kredit na displeji
 2. Nastavení množství cukru
     1. Červenými tlačítky pod dispelejm zvolte množství cukru
-4. Zvolte si z nabídky kávy
+3. Zvolte si z nabídky kávy
     1. Stiskuntím tlačítka s názvem kávy začne automat připravovat váš nápoj
 
-
 ## Postup pro odběr kávy
-1. Nadzvednutí plastového krytu
-2. Při držení krytu vyjměte kávu zmáčknutím kelímku
-3. Plastový kryt můžete pustit
+1. Nadzvedněte plastový kryt
+2. Při držení krytu:
+    - Lehce zatlačte na kelímek pro uvolnění
+3. Zavřete kryt po vyjmutí nápoje
 
 ## Postup pro technika
 1. Otevřít automat
