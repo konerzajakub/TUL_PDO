@@ -82,7 +82,7 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 1. Zavolejte callcentrum. Číslo se nachází na boku automatu.
 
 ## Užívání si kávy
-![image](https://github.com/user-attachments/assets/48e16c39-66da-4742-ae6b-2babbe65eb64)
+![image](https://github.com/user-attachments/assets/59c15453-02ee-45b4-8bc9-44ac3f89547a)
 
 
 ## Brought to you by *SPDO group holding™* 
