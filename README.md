@@ -42,6 +42,12 @@ Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
 2. Při držení krytu vyjměte kávu zmáčknutím kelímku
 3. Plastový kryt můžete pustit
 
+## Postup pro technika
+1. Otevřít automat
+2. ???
+3. Magie
+4. Zavřít automat
+
 ## Užívání si kávy
 
 ## Use Cases
