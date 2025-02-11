@@ -35,18 +35,14 @@ Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
     1. Červenými tlačítky pod dispelejm zvolte množství cukru
 4. Zvolte si z nabídky kávy
     1. Stiskuntím tlačítka s názvem kávy začne automat připravovat váš nápoj
-5. Užijte si vaši kávu!
-
-## Postup pro zaplacení
-
-### Hotovost
-1. Po potvrzení 
-
-### Karta
 
 
 ## Postup pro odběr kávy
+1. Nadzvednutí plastového krytu
+2. Při držení krytu vyjměte kávu zmáčknutím kelímku
+3. Plastový kryt můžete pustit
 
+## Užívání si kávy
 
 ## Use Cases
 ###
