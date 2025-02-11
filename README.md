@@ -16,7 +16,7 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 ### Senior
 ![getimage](https://github.com/user-attachments/assets/639ea393-744e-4dcb-9d20-0caf5d0cfd62)
 
-### Handicapovaný
+### Handicapovaní
 ![neo-handpan-jiri-kas-the-tap-tap-simon-ornest-vanoce](https://github.com/user-attachments/assets/61a775be-61f9-468e-bc69-80b6aed5de86)
 
 ### Servisní inženýr
