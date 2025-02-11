@@ -3,6 +3,10 @@
 ## Úvod
 Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
 
+## Pro koho to bude?
+- cizinec
+- senior
+
 ## Postup pro výběr kávy
 1. Vyberte typ kávy na obrazovce.
 2. Nastavte sílu kávy a množství cukru
