@@ -43,10 +43,45 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 3. Zavřete kryt po vyjmutí nápoje
 
 ## Postup pro technika
-1. Otevřít automat
-2. ???
-3. Magie
-4. Zavřít automat
+
+### 1. Otevřít automat
+- Odemkněte a otevřete servisní dvířka automatu.
+- Zkontrolujte stav automatu a připravte si potřebné nástroje.
+
+### 2. Kontrola a doplnění surovin
+- **Káva**: Zkontrolujte hladinu zrnkové kávy a doplňte ji, pokud je potřeba.
+- **Mléko**: Pokud automat používá sušené mléko, doplňte ho.
+- **Cukr**: Doplňte cukr, pokud je nízká hladina.
+- **Voda**: Zkontrolujte a případně doplňte vodní nádrž nebo připojení k vodovodu.
+- **Ostatní suroviny**: Například kakao, čaj nebo jiné instantní směsi podle modelu automatu.
+
+### 3. Údržba a čištění
+- **Odpadní zásobník**: Vyprázdněte a vyčistěte odpadní zásobník na použitou kávovou sedlinu.
+- **Odvápnění**: Pokud je potřeba, spusťte odvápňovací cyklus dle návodu k automatu.
+- **Čištění trysek**: Ujistěte se, že výdejní trysky nejsou ucpané a případně je vyčistěte.
+- **Ostatní čištění**: Setřete vnější části automatu a zkontrolujte vnitřní mechanismy na přítomnost nečistot.
+
+### 4. Zavřít automat
+- Zavřete a zamkněte servisní dvířka.
+- Proveďte testovací dávku kávy pro ověření funkčnosti.
+- Pokud je vše v pořádku, automat je připraven k provozu.
+
+## Postup při nedostatku peněz
+1. Zkontrolujte obsah místa kde propadávají peníze.
+2. Zkuste poprosit kolemjdoucí o drobné.
+3. Zkuste směnit obsah vašeho inventáře za peníze.
+
+## Postup při špatném zraku
+1. Použijte lupu.
+2. Použijte přibližovací funkce kamery telefonu pro zvětšení textu.
+
+## Postup při nemožnosti použít ovládací prvky automatu
+1. Poproste kolemjdoucí o pomoc při ovládání automatu.
+
+## Postup při nefunkčním automatiku
+1. Zavolejte callcentrum. Číslo se nachází na boku automatu.
+
+## How
 
 ## Užívání si kávy
 
