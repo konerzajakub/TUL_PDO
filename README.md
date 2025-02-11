@@ -16,7 +16,7 @@ Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
 ### Handicapovaný
 ![neo-handpan-jiri-kas-the-tap-tap-simon-ornest-vanoce](https://github.com/user-attachments/assets/61a775be-61f9-468e-bc69-80b6aed5de86)
 
-###Servisní inženýr
+### Servisní inženýr
 ![Service-guy](https://github.com/user-attachments/assets/27491724-d73e-496d-86b4-c49ecbdedacc)
 
 
