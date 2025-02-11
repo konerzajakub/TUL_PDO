@@ -3,12 +3,19 @@
 ## Úvod
 Vítejte v dokumentaci k našemu automatu na kávu pro uživatele.
 
-## Pro koho to bude?
-- cizinec
+## Kdo bude uživatel?
+### Student
+![MV5BOTE4MmRlMDktOTMwMy00NTg0LWE3OTMtNmE0NDBlYjg4OWRmXkEyXkFqcGc@ _V1_](https://github.com/user-attachments/assets/16205054-308e-4de4-bf5a-977d7e8877b5)
+
+### Cizinec
 - ![vladimir-mensik](https://github.com/user-attachments/assets/105b4440-d8c0-482c-8a3e-ee08aff89c7c)
 
-- senior
+### Senior
 - ![getimage](https://github.com/user-attachments/assets/639ea393-744e-4dcb-9d20-0caf5d0cfd62)
+
+### Handicapovaný
+![neo-handpan-jiri-kas-the-tap-tap-simon-ornest-vanoce](https://github.com/user-attachments/assets/61a775be-61f9-468e-bc69-80b6aed5de86)
+
 
 
 ## Postup pro výběr kávy
