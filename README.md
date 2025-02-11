@@ -85,5 +85,6 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 ![image](https://github.com/user-attachments/assets/48e16c39-66da-4742-ae6b-2babbe65eb64)
 
 
-## Use Cases
-###
+## Brought to you by *SPDO group holding™* 
+![image](https://github.com/user-attachments/assets/95154f4a-43b1-489e-846f-318c232fbaee)
+
