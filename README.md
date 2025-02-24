@@ -46,7 +46,8 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 
 ### 5. Volba nápoje
 1. Stiskněte tlačítko s názvem a obrázkem kávy
-Při volbě platby kartou:
+
+**Při volbě platby kartou:**
 - Po zvukové signalizaci "prosím přiložte kartu" použijte platební terminál
 
 2. Automat začíná připravovat Váš nápoj. Jeho dokončení bude oznámeno zvukovou signalizací.
