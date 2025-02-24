@@ -8,7 +8,7 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 ![MV5BOTE4MmRlMDktOTMwMy00NTg0LWE3OTMtNmE0NDBlYjg4OWRmXkEyXkFqcGc@ _V1_](https://github.com/user-attachments/assets/16205054-308e-4de4-bf5a-977d7e8877b5)
 
 ### Vyučující
-![179875](https://github.com/user-attachments/assets/578164a2-ea95-409f-99e0-f0a3261fcf75)
+![image](https://github.com/user-attachments/assets/a388b705-efdd-46f4-a81d-94fe1913faf3)
 
 ### Cizinec
 ![vladimir-mensik](https://github.com/user-attachments/assets/105b4440-d8c0-482c-8a3e-ee08aff89c7c)
