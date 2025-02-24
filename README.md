@@ -23,24 +23,41 @@ Vítejte v dokumentaci k automatizovanému kávovému systému pro různé typy 
 ![Service-guy](https://github.com/user-attachments/assets/27491724-d73e-496d-86b4-c49ecbdedacc)
 
 
-## Postup pro výběr kávy
-1. Platba
-    1. Platba kartou
-          1. Zmáčkněte zelené tlačítko na platebním terminálu (fakt hodně)
-          2. Na zvukovou signalizaci přiložte kartu
-    2. Platba hotovostí
-          1. Do označeného otvoru vložte mince, automat vrací i na 50 Kč
-          2. Zkontrolujte kredit na displeji
-2. Nastavení množství cukru
-    1. Červenými tlačítky pod dispelejm zvolte množství cukru
-3. Zvolte si z nabídky kávy
-    1. Stiskuntím tlačítka s názvem kávy začne automat připravovat váš nápoj
+## Postup pro výdej kávy
 
-## Postup pro odběr kávy
-1. Nadzvedněte plastový kryt
-2. Při držení krytu:
-    - Lehce zatlačte na kelímek pro uvolnění
-3. Zavřete kryt po vyjmutí nápoje
+### 1. Prohlédnutí nabídky automatu
+- Automat nabízí 24 různých typů nápojů, včetně čaje.
+
+### 2. Způsob platby
+- Automat umožňuje platbu kartou, nebo hotově
+
+**Platba hotově**
+1. Vhoďte do otvoru na mince ve výšce Vašich očí mince s celkovou hodnotou rovno nebo větší ceně chtěného nápoje
+- automat vrací na všechny mince
+- vložená suma bude indikována na displeji přístroje
+
+**Platba kartou**
+1. Zmáčkněte zelené tlačítko na platebním terminálu a počkejte na zvukou signalizaci "Prosím zvolte produkt"
+
+### 3. Nastavení cukru
+- červenými tlačítky můžete zvolit požadované množství cukru
+- aktuální množství cukru je indikováno pěti led diodami mezi tlačítky
+- DIABETICI POZOR, nápoje obsahující čokoládu vždy obsahují cukr i po zvolení množství cukru 0
+
+### 5. Volba nápoje
+1. Stiskněte tlačítko s názvem a obrázkem kávy
+Při volbě platby kartou:
+- Po zvukové signalizaci "prosím přiložte kartu" použijte platební terminál
+
+2. Automat začíná připravovat Váš nápoj. Jeho dokončení bude oznámeno zvukovou signalizací.
+
+### 6. Odběr nápoje
+- po pípnutí doprovázeného "Děkujeme" je Váš nápoj připraven k odběru
+1. Jednou rukou nadzvedněte plastový kryt tahem nahoru
+2. Druhou rukou lehce uchopte kelímek s nápojem
+3. Při mírném stlačení stran kelímek vysuňte z držáku tahem k sobě
+4. Pusťte plastový kryt, který sám sjede zpět na své místo
+5. Pro kávu typu To-go lze nasadit plastové víčko v zásobníku na přední straně
 
 ## Postup pro technika
 
