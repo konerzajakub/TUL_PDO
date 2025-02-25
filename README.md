@@ -7,6 +7,7 @@
 2. **Umístěte otvírák** – Zahákněte kovový háček otvíráku pod okraj kovového uzávěru lahve.
 3. **Páčení uzávěru** – Pevně držte otvírák a tahem směrem vzhůru odtrhněte uzávěr od lahve.
 4. **Užijte si nápoj** – Na zdraví!.
+![image](https://fantasyobchod.gumlet.io/otvirak-na-lahve-thorovo-kladivo-5f2ccf6a5249d.jpg?mode=fill&fill=solid&fill-color=ffffff&w=1000&dpr=1.0)
 
 ---
 
